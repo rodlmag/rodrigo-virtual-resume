@@ -1,0 +1,82 @@
+.body-home{
+    background-image:linear-gradient(rgba(0,0,0,0.30),rgba(0, 0, 0, 0.30)) ,url('src/assets/homeWall.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.body-exp{
+    background-image: linear-gradient(rgba(0,0,0,0.30),rgba(0, 0, 0, 0.30)),url('src/assets/exp.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    justify-content: center;
+}
+
+.exposure{
+    background-image:linear-gradient(rgba(0,0,0,0.30),rgba(0, 0, 0, 0.30));
+}
+
+.edu-text{
+    margin-top: 100px;
+    margin-bottom: auto;
+    margin-left: 480px;
+    margin-right: auto;
+    font-family: monospace;
+}
+
+.info-container{
+    padding: 10px;
+    border: 10px solid#f8f9fa;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+}
+
+.exp-img{
+    border-radius: 25px;
+    padding: 20px;
+    width: auto;
+    height: 350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.contact-section {
+    padding:5px;
+}
+
+/* #technologies{
+    width: 100%;
+    height: 100vh;
+    z-index: -1;
+} */
+
+.particles-hd{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    z-index: -1;
+}
+
+.widget{
+    width: 150px;
+    height: auto;
+}
+
+.tech-container{
+    padding: 10px;
+    background-color:white;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.tech-icon{
+    width: 50px;
+    height: auto;
+}
