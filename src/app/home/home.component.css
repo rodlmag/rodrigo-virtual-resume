@@ -2,8 +2,7 @@
     background-image:linear-gradient(rgba(0,0,0,0.30),rgba(0, 0, 0, 0.30)) ,url('src/assets/homeWall.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: cover;
-    
+    background-size: cover;    
 }
 
 .body-exp{
