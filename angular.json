@@ -107,9 +107,15 @@
               "src/assets/app.js"
             ]
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
   },
-  "defaultProject": "virtualResume"
+  "defaultProject": "virtualResume",
+  "cli": {
+    "analytics": false
+  }
 }
