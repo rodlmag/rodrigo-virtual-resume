@@ -14,7 +14,7 @@ export class FooterComponent implements OnInit {
   }
   
   goFacebook(): void {
-    this.document.location.href = 'https://es-la.facebook.com/public/Rodrigo-Lopez-M';
+    this.document.location.href = 'https://www.facebook.com/Rodrigo.loma/';
   }
 
   goLinkedIn(): void {
